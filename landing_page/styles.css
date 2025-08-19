@@ -1,0 +1,12 @@
+body { 
+     font-family: Arial, sans-serif;
+     text-align: center; margin: 0;
+      padding: 0;
+       background-color: #f4f4f4;
+     } 
+header { background-color: #007BFF;
+     color: white;
+      padding: 50px 20px;
+     } h1 
+     { font-size: 2.5em;
+         margin-bottom: 0.2em; } p { font-size: 1.2em; margin-top: 0; margin-bottom: 1em; } #cta-button { background-color: #28a745; border: none; color: white; padding: 15px 30px; font-size: 1em; border-radius: 5px; cursor: pointer; } #cta-button:hover { background-color: #218838; }
